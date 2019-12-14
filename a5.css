@@ -1,0 +1,168 @@
+
+body{
+background: linear-gradient(#30fc8a,#2f2924);
+
+}
+
+  .g2{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    height: 450px;
+    width: 10px;
+    border: solid black 50pt;
+    border-radius: 100px;
+  }
+
+	.g2:hover{
+		height: 50px;
+	}
+
+
+
+.go{
+  position: absolute;
+  left: 30px;
+  bottom: 275px;
+  height: 10px;
+  width: 180px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+
+#n1{
+
+  position: absolute;
+  left: 350px;
+  top:30px;
+  height:450px;
+  width: 10px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+#n1:hover{
+	top: 100px;
+	border-color: blue;
+  border-radius: 0px;
+
+}
+
+.e1{
+	position: absolute;
+	left: 680px;
+	top:265px;
+	height:470px;
+	width: 10px;
+	border: solid black 50pt;
+	border-radius: 100px;
+}
+
+.e2{
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  left: 680px;
+  bottom: 20px;
+  border: 20px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+#e3{
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  left: 680px;
+  bottom: 350px;
+  border: 20px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+#e3:hover{
+	left: 700px;
+	border-color: blue;
+  border-radius: 0px;
+}
+
+#e4{
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  left: 680px;
+  bottom: 480px;
+  border: 20px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+#e4:hover{
+	left: 700px;
+	border-color: blue;
+  border-radius: 0px;
+}
+
+.n3{
+	position: absolute;
+	left: 1040px;
+	top:250px;
+	height:460px;
+	width: 10px;
+	border: solid black 50pt;
+	border-radius: 100px;
+}
+
+.n3:hover{
+  border: solid green 15pt;
+  border-radius: 0px;
+}
+
+.d{
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  left: 1050px;
+  bottom: 20px;
+  border: 20px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+.d:hover{
+  border: solid green 15pt;
+  border-radius: 0px;
+}
+
+.d2{
+  position: absolute;
+  width: 200px;
+  height: 10px;
+  left: 1050px;
+  bottom: 500px;
+  border: 20px;
+  border: solid black 50pt;
+  border-radius: 100px;
+}
+
+.d2:hover{
+  border: solid green 15pt;
+  border-radius: 0px;
+}
+
+
+.d3{
+  position: absolute;
+	left: 1240px;
+	top:250px;
+	height:460px;
+	width: 10px;
+	border: solid black 50pt;
+	border-radius: 100px;
+}
+
+
+.d3:hover{
+  border: solid green 15pt;
+  border-radius: 0px;
+}
